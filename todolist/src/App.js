@@ -2,8 +2,8 @@
 //import Todo from "./Todo";
 //import Calc from "./Calc";
 //import ToggleColor from "./ToggleColor";
-
-import HiddenSearch from "./HiddenSearch";
+//import HiddenSearch from "./HiddenSearch";
+import Testimonial from "./Testimonial";
 
 function App() {
   return (
@@ -11,8 +11,9 @@ function App() {
       {/* <Todo /> 
       <MealApi />
       <Calc />
-      <ToggleColor />*/}
-      <HiddenSearch />
+      <ToggleColor />
+      <HiddenSearch />*/}
+      <Testimonial />
     </div>
   );
 }
