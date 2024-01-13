@@ -3,7 +3,9 @@
 //import Calc from "./Calc";
 //import ToggleColor from "./ToggleColor";
 //import HiddenSearch from "./HiddenSearch";
-import Testimonial from "./Testimonial";
+//import Testimonial from "./Testimonial";
+
+import Accordian from "./Accordian";
 
 function App() {
   return (
@@ -12,8 +14,9 @@ function App() {
       <MealApi />
       <Calc />
       <ToggleColor />
-      <HiddenSearch />*/}
-      <Testimonial />
+      <HiddenSearch />
+      <Testimonial />*/}
+      <Accordian />
     </div>
   );
 }
